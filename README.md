@@ -1,15 +1,15 @@
+
+
 <div>
 
 <a href="https://github.com/brenomiloch">
-<img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+ 
+<img height="180em" src="https://octodex.github.com/images/dojocat.jpg">
+
 
 </div>
-<style>
- .{
- background-color:red;
- }
- </style>
- 👋 Hi, I’m @brenomiloch
+
+ -👋 Hi, I’m @brenomiloch
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
