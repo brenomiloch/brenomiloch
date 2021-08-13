@@ -8,7 +8,10 @@
 </div>
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brenomiloch&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brenomiloch&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenomiloch&layout=compact)]
+
 
 
 
