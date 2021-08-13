@@ -3,17 +3,13 @@
 <div>
 
 <a href="https://github.com/brenomiloch">
- 
-<img height="180em" src="https://octodex.github.com/images/dojocat.jpg">
-
+<img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
 
 </div>
 
- -👋 Hi, I’m @brenomiloch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brenomiloch&show_icons=true)
+
 
 
 
