@@ -1,13 +1,8 @@
 
 
-<div>
 
 <a href="https://github.com/brenomiloch">
-<img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
-
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
