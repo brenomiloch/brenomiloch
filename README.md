@@ -1,14 +1,19 @@
 
 
-
+<div>
 <a href="https://github.com/brenomiloch">
-  <img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="280em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  </br>
+   </br>
+    </br>
+     </br>
+     <a href="https://github.com/brenomiloch">
+  <img height="280em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
-
+</div>
 
 
 
