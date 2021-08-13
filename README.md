@@ -1,15 +1,17 @@
-- 👋 Hi, I’m @brenomiloch
+<div>
+
+<a href="https://github.com/brenomiloch">
+<img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+</div>
+
+ 👋 Hi, I’m @brenomiloch
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div>
 
-<a href="https://google.com/">
-<img height="180em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
-
-</div>
 
 
 
