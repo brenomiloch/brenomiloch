@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/brenomiloch">
   <img height="280em" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
-  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=brenomiloch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img  align="right" src="https://i.pinimg.com/564x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3.jpg" />
 </a>
   </br>
    </br>
